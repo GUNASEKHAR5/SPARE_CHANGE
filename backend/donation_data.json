@@ -1,0 +1,74 @@
+[
+    {
+        "id": "e21d6751-a582-401d-9915-aad7fbc4688c",
+        "name": "Asha Foundation",
+        "type": "trust",
+        "category": "Education",
+        "location": "Delhi",
+        "description": "Provides educational resources to underprivileged children.",
+        "trust_score": 95,
+        "transparency_score": 92,
+        "efficiency_score": 88,
+        "impact": "Helped 10,000+ children receive quality education."
+    },
+    {
+        "id": "84b6ff56-b79e-4e37-8165-d0bd95ff0f7f",
+        "name": "Elderly Care Trust",
+        "type": "old-age",
+        "category": "Healthcare",
+        "location": "Mumbai",
+        "description": "Offers medical and emotional support to senior citizens.",
+        "trust_score": 92,
+        "transparency_score": 90,
+        "efficiency_score": 85,
+        "impact": "Provided free healthcare to over 5,000 elders this year."
+    },
+    {
+        "id": "7e87d44a-5765-44e0-b950-ae59c3d059ac",
+        "name": "Future Stars Home",
+        "type": "child-home",
+        "category": "Child Welfare",
+        "location": "Bangalore",
+        "description": "A safe and nurturing home for orphaned and abandoned children.",
+        "trust_score": 98,
+        "transparency_score": 95,
+        "efficiency_score": 91,
+        "impact": "Currently housing 200 children with full care and education."
+    },
+    {
+        "id": "71bb3131-b596-4d83-ba75-3c479b2cbf40",
+        "name": "Rural Health Initiative",
+        "type": "trust",
+        "category": "Healthcare",
+        "location": "Rural Maharashtra",
+        "description": "Sets up medical camps and provides primary healthcare in remote villages.",
+        "trust_score": 88,
+        "transparency_score": 85,
+        "efficiency_score": 82,
+        "impact": "Treated over 50,000 patients in the last two years."
+    },
+    {
+        "id": "7da356bc-0eea-442d-b385-ab1d492945be",
+        "name": "Golden Years Retreat",
+        "type": "old-age",
+        "category": "Elderly Care",
+        "location": "Chennai",
+        "description": "A residential facility for elders focusing on community and well-being.",
+        "trust_score": 94,
+        "transparency_score": 91,
+        "efficiency_score": 89,
+        "impact": "Offers a dignified and happy life for 150 senior residents."
+    },
+    {
+        "id": "bd22b985-a57b-41f5-80eb-60155ac8e5f6",
+        "name": "Bright Minds Orphanage",
+        "type": "child-home",
+        "category": "Education",
+        "location": "Kolkata",
+        "description": "Focuses on holistic development and skill-building for children.",
+        "trust_score": 96,
+        "transparency_score": 93,
+        "efficiency_score": 90,
+        "impact": "High rate of graduates pursuing higher education or vocational training."
+    }
+]

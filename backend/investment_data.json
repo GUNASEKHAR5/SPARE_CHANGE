@@ -1,0 +1,50 @@
+[
+    {
+        "id": "00815374-5d2d-487b-bfcf-d1e2667b3287",
+        "name": "Tech Innovators Fund",
+        "type": "mutual-fund",
+        "category": "Technology",
+        "risk": "High",
+        "volatility": 15,
+        "analystRating": 4.5,
+        "projectedGrowth": "18-25%",
+        "description": "Invests in high-growth technology companies.",
+        "aiCompatibility": 92
+    },
+    {
+        "id": "908b91d7-f57b-421a-83f9-b6ec3503ce59",
+        "name": "Global Green Energy ETF",
+        "type": "etf",
+        "category": "Renewables",
+        "risk": "Medium",
+        "volatility": 12,
+        "analystRating": 4.0,
+        "projectedGrowth": "10-15%",
+        "description": "Tracks leading companies in the renewable energy sector.",
+        "aiCompatibility": 88
+    },
+    {
+        "id": "fc0a6916-e2d5-4205-9281-19caad730390",
+        "name": "Blue Chip Stock Portfolio",
+        "type": "stock",
+        "category": "Diversified",
+        "risk": "Low",
+        "volatility": 8,
+        "analystRating": 4.8,
+        "projectedGrowth": "5-8%",
+        "description": "A collection of stable, well-established companies.",
+        "aiCompatibility": 95
+    },
+    {
+        "id": "67274cb5-d9c4-401b-8838-df85f44a74a9",
+        "name": "Emerging Markets Bond Fund",
+        "type": "mutual-fund",
+        "category": "Bonds",
+        "risk": "Medium",
+        "volatility": 10,
+        "analystRating": 3.5,
+        "projectedGrowth": "7-10%",
+        "description": "Fixed-income investments in developing economies.",
+        "aiCompatibility": 75
+    }
+]
