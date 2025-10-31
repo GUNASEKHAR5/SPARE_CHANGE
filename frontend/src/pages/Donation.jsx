@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Heart, TrendingUp, Users, MapPin, CheckCircle, Download, IndianRupee, Search, Filter, Brain, Star, ThumbsUp, ThumbsDown, RefreshCw, Zap, Target, Award } from 'lucide-react';
 import './DonationsPage.css';
 
+
 const DonationsPage = ({ user, walletBalances, onWalletUpdate }) => {
   const [activeFilter, setActiveFilter] = useState('all');
   const [showModal, setShowModal] = useState(false);
