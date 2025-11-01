@@ -28,6 +28,8 @@ export default function App() {
   });
 
   // New logout handler to update state
+
+  
   const handleLogout = () => {
     localStorage.removeItem('user');
     localStorage.removeItem('token');
